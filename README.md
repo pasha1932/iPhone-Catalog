@@ -2,28 +2,29 @@
 Phone Catalogue
 Discover your perfect Apple device – Explore a wide selection of iPhones, iPads, and Apple Watches. Easily compare models, add products to your cart, or save your favorites. Enjoy a seamless shopping experience with intuitive navigation and real-time updates.
 
-#Line Preview
+# Line Preview
 Experience the live website []
-#Design Reference
+
+# Design Reference
 https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original - Design of the site
 #Technologies Used
 
-#Getting Started
+# Getting Started
 Clone the repository:
 git clone https://github.com/your-username/project-name.git
 cd project-name
 
 Install dependencies:
 npm install
-# or
+or
 yarn install
 
 Run the project locally:
 npm start
-# or
+or
 yarn start
 
-#Features
+# Features
 * Responsive Design : Optimized for different screen sizes and devices, responses on width 320px, 640px, 1200px, 1440px.
 * Navigation : react-router-dom library is used in the application to enable navigation between multiple pages, and URL-based 
 search parameters saved when navigating.
