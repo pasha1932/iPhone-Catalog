@@ -3,7 +3,7 @@ Phone Catalogue
 Discover your perfect Apple device – Explore a wide selection of iPhones, iPads, and Apple Watches. Easily compare models, add products to your cart, or save your favorites. Enjoy a seamless shopping experience with intuitive navigation and real-time updates.
 
 # Line Preview
-Experience the live website https://mate.academy/chats/12392?selectedMessageId=6616206&threadId=6599590
+Experience the live website https://pasha1932.github.io/iphone-catalog/
 
 # Design Reference
 https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original - Design of the site
